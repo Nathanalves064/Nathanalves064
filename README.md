@@ -8,11 +8,19 @@ Here's something about me:
   
 - 📝 I’m looking to collaborate on FrontEnd and BackEnd development for Web applications
   
-- ⚡ Fun fact: I can spend hours fixing a bug caused by a single missing semicolon 😅
+- ⚡ Fun fact: I overfixate more on a align-content issue than I actually need 😅
+
+- 
 
 ## Contact
 <a href="https://www.linkedin.com/in/nathan-ladislau/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:nathanladislau3@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://whats.link/nathanalves064">
+	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 ## Tecnologies
