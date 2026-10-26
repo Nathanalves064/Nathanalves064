@@ -9,9 +9,9 @@ Here's something about me:
 - 📝 Aspiring to collaborate on FrontEnd and BackEnd development for Web applications
   
 - ⚡ Fun fact: I overfixate more on a align-content issue than I actually need 😅
-
-
-
+  
+  
+  
 ## Contact
 <a href="https://www.linkedin.com/in/nathan-ladislau/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -22,9 +22,9 @@ Here's something about me:
 <a href="https://wa.link/9fsdmz">
 	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
-
-
-
+  
+  
+  
 ## Tecnologies
 
 ![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=black)
