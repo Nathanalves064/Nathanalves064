@@ -10,6 +10,11 @@ Here's something about me:
   
 - ⚡ Fun fact: I can spend hours fixing a bug caused by a single missing semicolon 😅
 
+## Contact
+<a href="https://www.linkedin.com/in/nathan-ladislau/">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 ## Tecnologies
 
 ![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=black)
