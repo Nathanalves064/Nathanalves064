@@ -2,7 +2,7 @@
 
 Here's something about me:
 
-- 🔭 Looking for job opportunities as a Fullstack developer
+- 🔭 Looking for opportunities as a Fullstack developer
   
 - 🌱 Currently learning to be a better developer
   
