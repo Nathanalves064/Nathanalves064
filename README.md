@@ -2,11 +2,11 @@
 
 Here's something about me:
 
-- 🔭 I’m currently looking for job opportunities as a Fullstack developer
+- 🔭 Looking for job opportunities as a Fullstack developer
   
-- 🌱 I'm currently learning to be a better developer
+- 🌱 Currently learning to be a better developer
   
-- 📝 I’m looking to collaborate on FrontEnd and BackEnd development for Web applications
+- 📝 Aspiring to collaborate on FrontEnd and BackEnd development for Web applications
   
 - ⚡ Fun fact: I overfixate more on a align-content issue than I actually need 😅
 
