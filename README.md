@@ -21,7 +21,7 @@ Here's something about me:
 </a>
 <a href="https://wa.link/9fsdmz">
 	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a
+</a>
 
 
 	
