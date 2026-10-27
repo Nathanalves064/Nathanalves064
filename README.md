@@ -8,7 +8,7 @@ Here's something about me:
   
 - 📝 Aspiring to collaborate on FrontEnd and BackEnd development for Web applications
   
-- ⚡ Fun fact: I overfixate more on align-content issues than I actually need 😅
+- ⚡ Fun fact: I overfixate more on justify-content issues than I actually need 😅
 
 
 
